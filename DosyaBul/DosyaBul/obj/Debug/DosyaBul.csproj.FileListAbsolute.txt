@@ -1,0 +1,10 @@
+D:\Belgeler\Visual Studio 2019\Projects\DosyaBul\DosyaBul\bin\Debug\DosyaBul.exe.config
+D:\Belgeler\Visual Studio 2019\Projects\DosyaBul\DosyaBul\bin\Debug\DosyaBul.exe
+D:\Belgeler\Visual Studio 2019\Projects\DosyaBul\DosyaBul\bin\Debug\DosyaBul.pdb
+D:\Belgeler\Visual Studio 2019\Projects\DosyaBul\DosyaBul\obj\Debug\DosyaBul.csproj.AssemblyReference.cache
+D:\Belgeler\Visual Studio 2019\Projects\DosyaBul\DosyaBul\obj\Debug\DosyaBul.DosyaBulFrm.resources
+D:\Belgeler\Visual Studio 2019\Projects\DosyaBul\DosyaBul\obj\Debug\DosyaBul.Properties.Resources.resources
+D:\Belgeler\Visual Studio 2019\Projects\DosyaBul\DosyaBul\obj\Debug\DosyaBul.csproj.GenerateResource.cache
+D:\Belgeler\Visual Studio 2019\Projects\DosyaBul\DosyaBul\obj\Debug\DosyaBul.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2019\Projects\DosyaBul\DosyaBul\obj\Debug\DosyaBul.exe
+D:\Belgeler\Visual Studio 2019\Projects\DosyaBul\DosyaBul\obj\Debug\DosyaBul.pdb
